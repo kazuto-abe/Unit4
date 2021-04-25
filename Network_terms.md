@@ -21,7 +21,6 @@ The ls command lists files and directories within the file system, and shows det
 
 * CAT
 The name of the cat command comes from its functionality to concatenate files. It can read, concatenate, and write file contents to the standard output. If no file is specified or the input file name is specified as a single hyphen (-), it reads from the standard input.
-
 Cat is most commonly used to display the contents of one or multiple text files, combine files by appending one file’s contents to the end of another file, and create new files.
 
 * ECHO
