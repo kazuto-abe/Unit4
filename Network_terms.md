@@ -52,4 +52,4 @@ Stands for "Wireless Local Area Network." A WLAN, or wireless LAN, is a networ
 A LAN server, or file server, is a specialized, high-speed computer that houses the application programs and files for computers on a network. A network administrator grants user access to apps and files on a LAN server.
 
 ### By the way... why do most IPv4 addresses start with 192.168??
-=>
+198.168.x.x (subnet mask 255.255.255.0) is one of the three Private IP ranges that allow devices on the network to know where to send data packets - basicly communicate. These are sets of numbers assigned to your individual computer, printer, actually any device (aka node) that you can assign IP numbers to on your internal network. Networks being groups of computers behind (attached) to routers.
