@@ -50,3 +50,6 @@ Stands for "Wireless Local Area Network." A WLAN, or wireless LAN, is a networ
 
 #### LAN
 A LAN server, or file server, is a specialized, high-speed computer that houses the application programs and files for computers on a network. A network administrator grants user access to apps and files on a LAN server.
+
+### By the way... why do most IPv4 addresses start with 192.168??
+=>
